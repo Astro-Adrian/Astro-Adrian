@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning gravitational microlensing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ahern376@calstatela.edu
+- 📫 How to reach me adriangh08@gmail.com
 
 <!---
 Astro-Adrian/Astro-Adrian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
